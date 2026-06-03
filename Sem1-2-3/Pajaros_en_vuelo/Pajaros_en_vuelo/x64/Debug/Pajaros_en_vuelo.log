@@ -1,0 +1,17 @@
+﻿  Pajaros_en_vuelo.cpp
+C:\Users\ruben\Documents\TAIS\Sem1-2-3\Pajaros_en_vuelo\PriorityQueue.h(49,29): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Pajaros_en_vuelo.cpp")
+      C:\Users\ruben\Documents\TAIS\Sem1-2-3\Pajaros_en_vuelo\PriorityQueue.h(49,29):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\ruben\Documents\TAIS\Sem1-2-3\Pajaros_en_vuelo\Pajaros_en_vuelo.cpp(29,10):
+          Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<int,std::less<int>>" que se está compilando
+          C:\Users\ruben\Documents\TAIS\Sem1-2-3\Pajaros_en_vuelo\PriorityQueue.h(47,10):
+          al compilar la función del miembro clase plantilla "void PriorityQueue<int,std::less<int>>::push(const T &)"
+          with
+          [
+              T=int
+          ]
+              C:\Users\ruben\Documents\TAIS\Sem1-2-3\Pajaros_en_vuelo\Pajaros_en_vuelo.cpp(32,11):
+              vea la primera referencia a “PriorityQueue<int,std::less<int>>::push” en “equilibrar”
+  
+  Pajaros_en_vuelo.vcxproj -> C:\Users\ruben\Documents\TAIS\Sem1-2-3\Pajaros_en_vuelo\x64\Debug\Pajaros_en_vuelo.exe
