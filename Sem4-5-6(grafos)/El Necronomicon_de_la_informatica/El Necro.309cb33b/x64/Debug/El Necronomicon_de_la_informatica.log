@@ -1,0 +1,4 @@
+﻿  El_Necronomicon_de_la_informatica.cpp
+C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\El Necronomicon_de_la_informatica\El_Necronomicon_de_la_informatica.cpp(10,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\El Necronomicon_de_la_informatica\El_Necronomicon_de_la_informatica.cpp(35,1): warning C4715: 'CicloDirigido::sol': no todas las rutas de acceso de control devuelven un valor
+  El Necronomicon_de_la_informatica.vcxproj -> C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\El Necronomicon_de_la_informatica\x64\Debug\El Necronomicon_de_la_informatica.exe
