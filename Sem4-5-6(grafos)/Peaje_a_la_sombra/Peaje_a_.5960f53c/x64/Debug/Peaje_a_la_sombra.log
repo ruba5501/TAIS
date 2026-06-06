@@ -1,0 +1,4 @@
+﻿  Peaje_a_la_sombra.cpp
+C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\Peaje_a_la_sombra\Peaje_a_la_sombra.cpp(91,12): warning C4305: 'inicializando': truncamiento de '__int64' a 'int'
+C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\Peaje_a_la_sombra\Peaje_a_la_sombra.cpp(91,14): warning C4309: 'inicializando': truncamiento de valor constante
+  Peaje_a_la_sombra.vcxproj -> C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\Peaje_a_la_sombra\x64\Debug\Peaje_a_la_sombra.exe
