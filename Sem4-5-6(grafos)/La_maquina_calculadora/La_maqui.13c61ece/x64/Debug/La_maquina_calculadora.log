@@ -1,0 +1,4 @@
+﻿  La_maquina_calculadora.cpp
+C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\La_maquina_calculadora\La_maquina_calculadora.cpp(45,1): warning C4715: 'adyacentes': no todas las rutas de acceso de control devuelven un valor
+C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\La_maquina_calculadora\La_maquina_calculadora.cpp(64,1): warning C4715: 'bfs': no todas las rutas de acceso de control devuelven un valor
+  La_maquina_calculadora.vcxproj -> C:\Users\ruben\Documents\TAIS\Sem4-5-6(grafos)\La_maquina_calculadora\x64\Debug\La_maquina_calculadora.exe
